@@ -5,7 +5,7 @@ Deployed Application: *IN PROGRESS*
 ## Summary
 This is a full-stack web application created as a final capstone project for Thinkful's software engineering course.
 
-The application allows users to create, edit, and cancel restaurant reservations as well as add and remove tables from the system, seat reservations to tables, and clear tables when service is complete. Users may also search for reservations using the customer's phone number. Restrictions are included so that only valid reservations are accepted (e.g. during working hours).
+The application allows users to create, edit, and cancel restaurant reservations as well as add and remove tables from the system, seat reservations to tables, and clear tables when service is complete. Users may also search for reservations using the customers' phone numbers. Restrictions are included so that only valid reservations are accepted (e.g. during working hours).
 
 ## Technology Used
 
